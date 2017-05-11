@@ -1,1 +1,3 @@
 Hey This is a test and I'm seeing how to make changes to a REPO!  Thanks GitHub.
+
+![kj-2](https://cloud.githubusercontent.com/assets/6700418/25960883/53cf26a6-3646-11e7-8187-58f48a740548.jpg)
